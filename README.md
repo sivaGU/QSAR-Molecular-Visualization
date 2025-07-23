@@ -46,9 +46,7 @@ Final GitHub Submission/
 ├── Beta_CE_Combined/            # ERβ commonly exposed ligand structures
 ├── Alpha_T50_Combined/          # ERα T50 ligand structures
 ├── Beta_T50_Combined/           # ERβ T50 ligand structures
-└── QSAR Submission/             # Supplementary data and tables
-    ├── Supplementary Tables and Figures/
-    └── Supplementary Codes/
+└── Supplementary Tables/        # Supplementary data and tables
 ```
 
 ## 🛠️ Installation
@@ -124,14 +122,9 @@ This tool is designed for:
 
 ## 🤝 Contributing
 
-For questions or contributions, please refer to the project documentation or contact the development team.
+For questions or contributions, Contact Dr. Sivanesan Dakshanamurthy, PhD., MBA (sivanesan.dakshanamurthy@georgetown.edu)
 
 
 ## 📄 License
 
 This application is designed for research and educational use. Please cite the original analysis when using this data.
-
-## 📞 Contact
-
-For questions or issues: Contact Dr. Sivanesan Dakshanamurthy, PhD., MBA (sivanesan.dakshanamurthy@georgetown.edu)
-
