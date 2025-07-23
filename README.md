@@ -122,21 +122,16 @@ This tool is designed for:
 - **Visualization**: Plotly, Matplotlib
 - **File Formats**: PDB, Excel, CSV
 
-## 📝 License
-
-This project is provided for educational and research purposes.
-
 ## 🤝 Contributing
 
 For questions or contributions, please refer to the project documentation or contact the development team.
 
-## 📞 Support
 
-For technical support or questions about the application:
-1. Check the `INSTALLATION.md` file for troubleshooting
-2. Verify your setup using `verify_setup.py`
-3. Review the `WHAT_YOU_GET.md` file for feature overview
+## 📄 License
 
----
+This application is designed for research and educational use. Please cite the original analysis when using this data.
 
-**QSAR Molecular Visualization Tool** - Advanced molecular visualization and QSAR analysis platform
+## 📞 Contact
+
+For questions or issues: Contact Dr. Sivanesan Dakshanamurthy, PhD., MBA (sivanesan.dakshanamurthy@georgetown.edu)
+
