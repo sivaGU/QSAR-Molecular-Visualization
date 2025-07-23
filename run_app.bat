@@ -1,0 +1,9 @@
+@echo off
+echo Starting QSAR Molecular Visualization Tool...
+echo.
+echo Installing dependencies...
+pip install -r requirements.txt
+echo.
+echo Launching application...
+streamlit run qsar_web_app.py
+pause 
